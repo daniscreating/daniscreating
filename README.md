@@ -2,4 +2,4 @@
 
 My personal repository
 
-I'm currently learning data analytics and fron-end development
+:seedling: I'm currently learning data analytics and front-end development
